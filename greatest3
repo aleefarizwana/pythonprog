@@ -5,5 +5,5 @@ if a>b and a>c:
   print("largest :",a);
 elif b>c:
   print("largest :",b);
-else
+else:
   print("largest :",c);
